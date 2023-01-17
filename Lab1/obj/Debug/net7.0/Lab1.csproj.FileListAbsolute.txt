@@ -1,0 +1,15 @@
+C:\Users\tysis.DESKTOP-QR4S0IV\Desktop\Programming\CSE 1322L\Lab1\bin\Debug\net7.0\Lab1.exe
+C:\Users\tysis.DESKTOP-QR4S0IV\Desktop\Programming\CSE 1322L\Lab1\bin\Debug\net7.0\Lab1.deps.json
+C:\Users\tysis.DESKTOP-QR4S0IV\Desktop\Programming\CSE 1322L\Lab1\bin\Debug\net7.0\Lab1.runtimeconfig.json
+C:\Users\tysis.DESKTOP-QR4S0IV\Desktop\Programming\CSE 1322L\Lab1\bin\Debug\net7.0\Lab1.dll
+C:\Users\tysis.DESKTOP-QR4S0IV\Desktop\Programming\CSE 1322L\Lab1\bin\Debug\net7.0\Lab1.pdb
+C:\Users\tysis.DESKTOP-QR4S0IV\Desktop\Programming\CSE 1322L\Lab1\obj\Debug\net7.0\Lab1.csproj.AssemblyReference.cache
+C:\Users\tysis.DESKTOP-QR4S0IV\Desktop\Programming\CSE 1322L\Lab1\obj\Debug\net7.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tysis.DESKTOP-QR4S0IV\Desktop\Programming\CSE 1322L\Lab1\obj\Debug\net7.0\Lab1.AssemblyInfoInputs.cache
+C:\Users\tysis.DESKTOP-QR4S0IV\Desktop\Programming\CSE 1322L\Lab1\obj\Debug\net7.0\Lab1.AssemblyInfo.cs
+C:\Users\tysis.DESKTOP-QR4S0IV\Desktop\Programming\CSE 1322L\Lab1\obj\Debug\net7.0\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\tysis.DESKTOP-QR4S0IV\Desktop\Programming\CSE 1322L\Lab1\obj\Debug\net7.0\Lab1.dll
+C:\Users\tysis.DESKTOP-QR4S0IV\Desktop\Programming\CSE 1322L\Lab1\obj\Debug\net7.0\refint\Lab1.dll
+C:\Users\tysis.DESKTOP-QR4S0IV\Desktop\Programming\CSE 1322L\Lab1\obj\Debug\net7.0\Lab1.pdb
+C:\Users\tysis.DESKTOP-QR4S0IV\Desktop\Programming\CSE 1322L\Lab1\obj\Debug\net7.0\Lab1.genruntimeconfig.cache
+C:\Users\tysis.DESKTOP-QR4S0IV\Desktop\Programming\CSE 1322L\Lab1\obj\Debug\net7.0\ref\Lab1.dll

@@ -1,5 +1,5 @@
 using System;
-class Lab1A{
+class Lab2A{
     public static void Main(String[] args){
         StockItem milk = new StockItem("1 Gallon of Milk", 15, 3.60);
         StockItem bread = new StockItem("1 Loaf of Bread", 30, 1.98);
